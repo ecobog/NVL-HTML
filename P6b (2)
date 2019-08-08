@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<meta charset="uft-8">
+    <head>
+        <title>Películas de una sentada</title>
+    </head>    
+    <body>
+        <h1>Lista de <stong>5</strong> películas para ver de una sentada con amigos</h1>
+        <ol>
+        <li>El cisne negro (2010)</li> 
+            <img src="el cisne negro.jpg" width="200" height="200" alt="Portada El Cisne Negro">
+        <li>Los chicos del coro (2004)</li> 
+            <img src="Los chicos del coro.jpg" width="200" height="200" alt="Portada Los Chicos del Coro">
+        <li>Mulán (1998)</li> 
+            <img src="Mulan.png" width="200" height="200" alt="Portada Mulán">
+        <li>Intocable (2011)</li> 
+            <img src="Intocable.jpg" width="200" height="200" alt="Portada Intocable">
+        <li>El gran Showman (2017)</li> 
+            <img src="El gran showman.jpg" width="200" height="200" alt="Portada El Gran Showman">        
+        </ol>
+    </body>
+</html>
