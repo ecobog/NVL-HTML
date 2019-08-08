@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
+<meta charset="utf-8"
+    <head >
+        <title>Clasificación de los equipos de La Liga de Fútbol nacional</title>
+    </head>
+    <body>
+        <h1>Clasificación de los equipos</h1>
+        <h3>La Liga Nacional de Fútbol.</h3>
+        <center>
+        <img src="Logo La Liga.jpg" width="200" height="200" alt="Logo La Liga">
+        </center>
+<p>Athletic Club</p>
+<ul>
+   <li>Partidos ganados: 13</li>
+   <li>Partidos perdidos: 11</li>
+   <li>Partidos empatados 14</li> 
+</ul>
+<p>Athletico de Madrid</p>
+<ul>
+   <li>Partidos ganados: 22</li>
+   <li>Partidos perdidos: 6</li>
+   <li>Partidos empatados 10</li> 
+</ul>
+<p>CD Leganés</p>
+<ul>
+   <li>Partidos ganados: 11</li>
+   <li>Partidos perdidos: 15</li>
+   <li>Partidos empatados 12</li> 
+</ul>
+<p>D Alavés</p>
+<ul>
+   <li>Partidos ganados: 13</li>
+   <li>Partidos perdidos: 14</li>
+   <li>Partidos empatados 11</li> 
+</ul>
+<p>FC Barcelona</p>
+<ul>
+   <li>Partidos ganados: 26</li>
+   <li>Partidos perdidos: 3</li>
+   <li>Partidos empatados 9</li> 
+</ul>
+<p>Getafe CF</p>
+<ul>
+   <li>Partidos ganados: 15</li>
+   <li>Partidos perdidos: 9</li>
+   <li>Partidos empatados 14</li> 
+</ul>
+<p>Girona FC</p>
+<ul>
+   <li>Partidos ganados: 9</li>
+   <li>Partidos perdidos: 19</li>
+   <li>Partidos empatados 10</li> 
+</ul>
+<p>Levante UD</p>
+<ul>
+   <li>Partidos ganados: 11</li>
+   <li>Partidos perdidos: 16</li>
+   <li>Partidos empatados 11</li> 
+</ul>
+<p>R Valladolid CF</p>
+<ul>
+   <li>Partidos ganados: 10</li>
+   <li>Partidos perdidos: 17</li>
+   <li>Partidos empatados 11</li> 
+</ul>
+<p>Rayo Vallecano</p>
+<ul>
+   <li>Partidos ganados: 8</li>
+   <li>Partidos perdidos: 22</li>
+   <li>Partidos empatados 8</li> 
+</ul>
+<p>RC Celta</p>
+<ul>
+   <li>Partidos ganados: 10</li>
+   <li>Partidos perdidos: 17</li>
+   <li>Partidos empatados 11</li> 
+</ul>
+<p>RCD Espanyol</p>
+<ul>
+   <li>Partidos ganados: 14</li>
+   <li>Partidos perdidos: 13</li>
+   <li>Partidos empatados 11</li> 
+</ul>
+<p>Real Betis</p>
+<ul>
+   <li>Partidos ganados: 14</li>
+   <li>Partidos perdidos: 16</li>
+   <li>Partidos empatados 8</li> 
+</ul>
+<p>Real Madrid</p>
+<ul>
+   <li>Partidos ganados: 21</li>
+   <li>Partidos perdidos: 12</li>
+   <li>Partidos empatados 5</li> 
+</ul>
+<p>Real Sociedad</p>
+<ul>
+   <li>Partidos ganados: 13</li>
+   <li>Partidos perdidos: 14</li>
+   <li>Partidos empatados 11</li> 
+</ul>
+<p>SD Eibar</p>
+<ul>
+   <li>Partidos ganados: 11</li>
+   <li>Partidos perdidos: 13</li>
+   <li>Partidos empatados 14</li> 
+</ul>
+<p>SD Huesca</p>
+<ul>
+   <li>Partidos ganados: 7</li>
+   <li>Partidos perdidos: 19</li>
+   <li>Partidos empatados 12</li> 
+</ul>
+<p>Sevilla FC</p>
+<ul>
+   <li>Partidos ganados: 17</li>
+   <li>Partidos perdidos: 13</li>
+   <li>Partidos empatados 8</li> 
+</ul>
+<p>Valencia CF</p>
+<ul>
+   <li>Partidos ganados: 15</li>
+   <li>Partidos perdidos: 7</li>
+   <li>Partidos empatados 16</li> 
+</ul>
+<p>Villareal</p>
+<ul>
+   <li>Partidos ganados: 10</li>
+   <li>Partidos perdidos: 14</li>
+   <li>Partidos empatados 14</li> 
+</ul>
+    </body>
+</html>
