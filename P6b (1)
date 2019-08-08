@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<meta charset="uft-8">
+    <head>
+        <title>Lista de 10 películas</title>
+    </head>    
+    <body>
+        <h1>Lista de películas</h1>
+        <ul>
+        <li>El cisne negro (2010)</li> 
+            <img src="el cisne negro.jpg" width="200" height="200" alt="Portada El Cisne Negro">
+        <li>Los chicos del coro (2004)</li> 
+            <img src="Los chicos del coro.jpg" width="200" height="200" alt="Portada Los Chicos del Coro">
+        <li>Mulán (1998)</li> 
+            <img src="Mulan.png" width="200" height="200" alt="Portada Mulán">
+        <li>Amelie (2001)</li>
+            <img src="amelie.jpg" width="200" height="200" alt="Portada Amelie">
+        <li>Gladiator (2000)</li>
+            <img src="gladiator.jpg" width="200" height="200" alt="Portada Gladiator">
+        <li>Avatar (2009)</li>
+            <img src="Avatar.jpg" width="200" height="200" alt="Portada Avatar">
+        <li>Intocable (2011)</li> 
+            <img src="Intocable.jpg" width="200" height="200" alt="Portada Intocable">
+        <li>Up (2009)</li> 
+            <img src="up.jpg" width="200" height="200" alt="Portada Up">
+        <li>La favorita (2019)</li> 
+            <img src="La Favorita.jpg" width="200" height="200" alt="Portada La Favorita">           
+        <li>El gran Showman (2017)</li> 
+            <img src="El gran showman.jpg" width="200" height="200" alt="Portada El Gran Showman">        
+        </ul>
+    </body>
+</html>
