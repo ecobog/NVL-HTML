@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <form method="post" action="miservidor.php">
+        <div>
+          <label for=”CodigoPostal”>Código Postal:</label>
+          <input id=”CodigoPostal” type=number>
+        </div>
+        <div>
+            <label for=”Satisfaccion”>Nivel de satisfacción:</label>
+            <select id=”Satisfaccion”>
+              <option value=”1”>1</option>
+              <option value=”2”>2</option>
+              <option value=”3”>3</option>
+              <option value=”4”>4</option>
+              <option value=”5”>5</option>
+            </select>       
+        </div>
+        <div>
+            <label for=”email”>E-mail:</label>
+            <input id=”email” type=”email”>
+        </div>
+        <div>
+            <label for=”PuntosPositivos”>Puntos positivos del producto:</label>
+            <textarea id=”PuntosPositivos”></textarea>
+        </div>
+        <div>
+            <label for=”PuntosPositivos”>Puntos positivos del producto:</label>
+            <textarea id=”PuntosPositivos”></textarea>
+        </div>
+        <div>
+            <label for=”Apariencia”>¿Cómo valoras la apariencia del producto?</label>
+                <select id=”Satisfaccion”>
+                    <option value=”Excelente”>Excelente</option>
+                    <option value=”Bueno”>Bueno</option>
+                    <option value=”Regular”>Regular</option>
+                    <option value=”Pesimo”>Pésimo</option>
+                </select>       
+        </div>
+        <div>
+            <label for=”Calidad”>¿Cómo valoras la calidad del producto?</label>
+                <select id=”Calidad”>
+                    <option value=”Excelente”>Excelente</option>
+                    <option value=”Bueno”>Bueno</option>
+                    <option value=”Regular”>Regular</option>
+                    <option value=”Pesimo”>Pésimo</option>
+                </select>       
+        </div>
+        <div>
+            <label for=”Atencion”>¿Cómo valoras la atención recibida?</label>
+                <select id=”Atencion”>
+                  <option value=”Excelente”>Excelente</option>
+                  <option value=”Bueno”>Bueno</option>
+                  <option value=”Regular”>Regular</option>
+                  <option value=”Pesimo”>Pésimo</option>
+                </select>       
+        </div>
+        <div>
+            <label for=”Comparación”>Comparado con otras marcas, este producto es:</label>
+                <select id=”Comparacion”>
+                  <option value=”Excelente”>Excelente</option>
+                  <option value=”Bueno”>Bueno</option>
+                  <option value=”Regular”>Regular</option>
+                  <option value=”Pesimo”>Pésimo</option>
+                </select>       
+        </div>
+        <div>
+            <label for=”Total”>¿Cuál es la puntuación general de este producto?</label>
+                <select id=”Comparacion”>
+                  <option value=”Excelente”>Excelente</option>
+                  <option value=”Bueno”>Bueno</option>
+                  <option value=”Regular”>Regular</option>
+                  <option value=”Pesimo”>Pésimo</option>
+                </select>       
+        </div>
+        <div>
+            <button type=”submit”>Enviar</button>
+        </div>
+</form>
+</body>
+</html>
