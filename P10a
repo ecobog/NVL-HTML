@@ -70,7 +70,7 @@
         </div>
         <div>
             <label for=”Total”>¿Cuál es la puntuación general de este producto?</label>
-                <select id=”Comparacion”>
+                <select id=”Total”>
                   <option value=”Excelente”>Excelente</option>
                   <option value=”Bueno”>Bueno</option>
                   <option value=”Regular”>Regular</option>
